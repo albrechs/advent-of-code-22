@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "@types/node": "^18.11.10",
+    "node-libcurl": "^3.0.0",
+    "typescript": "^4.9.3"
+  }
+}
